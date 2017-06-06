@@ -1,15 +1,12 @@
 {
-<<<<<<< HEAD
   "name": "fzscrm",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Bhumil Sarvaiya <bsarvaiya@officebrain.com>",
-=======
+  "author": "Harsh Patel <harshp@officebrain.com>",
   "name": "CFS",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "Harsh Patel <harshp@officebrain.com>",
->>>>>>> 7496e47df84503ff7dde1579728a9b6fecb43533
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
