@@ -1,8 +1,8 @@
 {
-  "name": "fzscrm",
+  "name": "CFS",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Bhumil Sarvaiya <bsarvaiya@officebrain.com>",
+  "author": "Harsh Patel <harshp@officebrain.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
