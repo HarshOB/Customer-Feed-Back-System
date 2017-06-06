@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # fzscrm
+=======
+# Customer Feed Back System
+>>>>>>> 7496e47df84503ff7dde1579728a9b6fecb43533
 
 > A Vue.js project
 

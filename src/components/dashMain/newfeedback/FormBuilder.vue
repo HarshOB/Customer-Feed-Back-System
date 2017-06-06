@@ -2,6 +2,10 @@
   <div class="formbuilder">
     <div class="row">
       <div class="col-md-12">
+<<<<<<< HEAD
+=======
+        <!-- Form Builder -->
+>>>>>>> 7496e47df84503ff7dde1579728a9b6fecb43533
         <div id="build-wrap"></div>
       </div>
     </div>
@@ -24,4 +28,8 @@
       });
     }
   }
+<<<<<<< HEAD
 </script>
+=======
+</script>
+>>>>>>> 7496e47df84503ff7dde1579728a9b6fecb43533
