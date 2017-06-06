@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "Harsh Patel <harshp@officebrain.com>",
+<<<<<<< HEAD
+=======
+  "name": "CFS",
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "author": "Harsh Patel <harshp@officebrain.com>",
+>>>>>>> 0cba8a630f60a00b9b312fdc90690e95536d7553
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
